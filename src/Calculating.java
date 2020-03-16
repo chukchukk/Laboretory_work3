@@ -1,7 +1,6 @@
 import java.util.Stack;
 
 public class Calculating {
-
     private static int getPr(char simv){
         if(simv ==  '^')
             return 4;
